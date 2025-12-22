@@ -36,6 +36,14 @@ Me chamo David Basílio de Melo, tenho 18 anos e sou da Paraíba. Programo desde
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/GenilsonDC/Skills_icons_48x48/blob/main/icons/java.png?raw=true" 
+/>
+<img 
+    align="left" 
     alt="Lua" 
     title="Lua"
     width="30px" 
