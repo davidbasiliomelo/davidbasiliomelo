@@ -1,7 +1,7 @@
 # 👩🏻‍💻 David Basílo <br>
 **`Desenvolvedor FullStack`** <br>
 
-Me chamo David Basílio de Melo, tenho 18 anos e sou da Paraíba. Programo desde 2023, com foco em scripts para jogos e otimizações para servidores. Sou apaixonado por tecnologia e sempre busco criar experiências criativas e imersivas no universo gamer.".
+Me chamo David Basílio, tenho 18 anos e sou da Paraíba. Programo desde 2023, com foco em scripts para jogos e otimizações para servidores. Sou apaixonado por tecnologia e sempre busco criar experiências criativas e imersivas no universo gamer. Estou cursando Análise e Desenvolvimento de Sistemas no IFPB".
 
 <br>
 <br>
