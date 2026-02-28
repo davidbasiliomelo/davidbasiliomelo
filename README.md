@@ -17,5 +17,5 @@
 
 ### Social networks:
 
-<p> .... <p/>
+<p> ... <p/>
 
