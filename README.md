@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left"><br><br><br>    String name = "David Bassílio de Melo";<br>    String role = "Software Developer";<br>    String institution = "IFPB";<br>    String location = "Brazil";<br>    String[] stack = {"Java", "Python", "Lua", "Spring Boot", "SQL", "Git", Grafana,};<br><br>    public String status() {<br>        return "Always learning and building 💻👨‍💻";<br>    }<br><br><br><br></p>
+<br><br><br>    String name = "David Bassílio de Melo";<br>    String role = "Software Developer";<br>    String institution = "IFPB";<br>    String location = "Brazil";<br>    String[] stack = {"Java", "Python", "Lua", "Spring Boot", "SQL", "Git", Grafana,};<br><br>    public String status() {<br>        return "Always learning and building 💻👨‍💻";<br>    }<br><br><br><br>
 
 ###
 
