@@ -6,10 +6,7 @@
 
 ###
 
-<br>
-<br>
-<br>
-String name = "David Bassílio de Melo";<br>    String role = "Software Developer";<br>    String institution = "UEPB";<br>    String location = "Brazil";<br>    String[] stack = {"Java", "Python", "Lua", "Spring Boot", "SQL", "Git", Grafana,};<br><br>    public String status() {<br>        return "Always learning and building 💻👨‍💻";<br>    }<br><br><br><br>
+<p align="left"><br><br><br>    String name = "David Bassílio de Melo";<br>    String role = "Software Developer";<br>    String institution = "IFPB";<br>    String location = "Brazil";<br>    String[] stack = {"Java", "Python", "Lua", "Spring Boot", "SQL", "Git", Grafana,};<br><br>    public String status() {<br>        return "Always learning and building 💻👨‍💻";<br>    }<br><br><br><br></p>
 
 ###
 
@@ -43,14 +40,6 @@ String name = "David Bassílio de Melo";<br>    String role = "Software Develope
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Cebolaxx">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Cebolaxx&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
